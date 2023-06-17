@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Roro </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Mai+Chutiya+Hu+%3A)" /> </h3>
 
-![](https://visitcount.itsvg.in/api?id=hydrogen1helium2&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=hydroge1helium2&icon=0&color=0)
 <p align="justify"> 
 Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sasta Dev, I learn new things about programming and teach these things to others, I have been programming for almost more than 1 years and worked with many languages and technologies
  
@@ -64,11 +64,11 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hydrogen1helium2&show_icons=true&theme=dark&locale=en" alt="hydrogen1helium2 Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydrogen1helium2&theme=dark" alt="hydrogen1helium2 status" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hydroge1helium2&show_icons=true&theme=dark&locale=en" alt="hydrogen1helium2 Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydroge1helium2&theme=dark" alt="hydrogen1helium2 status" /></td>
   </tr>
 </table>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hydrogen1helium2&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hydroge1helium2&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
  </div>
